@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="GB2312"?>
+<CONFIG>
+<Bets>
+<Bet>
+<Money>10000</Money> 
+</Bet>
+<Bet>
+<Money>100000</Money> 
+</Bet>
+<Bet>
+<Money>1000000</Money> 
+</Bet>
+<Bet>
+<Money>10000000</Money> 
+</Bet>
+</Bets>
+</CONFIG>

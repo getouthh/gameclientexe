@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312"?> 
+<CARINFO>
+<INFO ID = "1">法拉利 X40</INFO>
+<INFO ID = "2">奔驰 X5</INFO>
+<INFO ID = "3">兰博基尼 X30</INFO>
+<INFO ID = "4">宝马 X5</INFO>
+<INFO ID = "5">玛莎拉蒂 X20</INFO>
+<INFO ID = "6">奥迪 X5</INFO>
+<INFO ID = "7">保时捷 X10</INFO>
+<INFO ID = "8">大众 X5</INFO>
+</CARINFO>

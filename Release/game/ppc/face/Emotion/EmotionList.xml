@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<emotiontabset ver="13.9.17.1">
+<emotiontab name="经典" key="1" order="1" icoimage="1_color.png"/>
+<emotiontab name="收藏" key="customEmotion" order="4" icoimage="custom_color.png"/>	
+</emotiontabset>
