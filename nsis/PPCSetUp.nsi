@@ -2,7 +2,7 @@
 
 ; HM NIS Edit Wizard helper defines
 
-!define PRODUCT_NAME "开原车行"
+!define PRODUCT_NAME "开源车行"
 !define PRODUCT_VERSION "1.0"
 !define PRODUCT_PUBLISHER "opensource, Inc."
 !define PRODUCT_WEB_SITE "https://github.com/getouthh"
