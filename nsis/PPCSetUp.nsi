@@ -2,7 +2,7 @@
 
 ; HM NIS Edit Wizard helper defines
 
-!define PRODUCT_NAME "车行"
+!define PRODUCT_NAME "开原车行"
 !define PRODUCT_VERSION "1.0"
 !define PRODUCT_PUBLISHER "opensource, Inc."
 ;!define PRODUCT_WEB_SITE "http://www.mycompany.com"
@@ -77,13 +77,6 @@ Section "MainSection" SEC01
   File "..\Release\game\ppc\DownLoad.dll"
   File "..\Release\game\ppc\GameFrame.dll"
   File "..\Release\game\ppc\GameRank.dll"
-  File "..\Release\game\ppc\glib-2-vs10.dll"
-  File "..\Release\game\ppc\gobject-2-vs10.dll"
-  File "..\Release\game\ppc\gthread-2-vs10.dll"
-  File "..\Release\game\ppc\icudt.dll"
-  File "..\Release\game\ppc\icudtl.dat"
-  File "..\Release\game\ppc\libintl.dll"
-  File "..\Release\game\ppc\oren.dll"
   File "..\Release\game\ppc\PropertyModule.dll"
   File "..\Release\game\ppc\SkinControls.dll"
   File "..\Release\game\ppc\SkinResource.dll"
